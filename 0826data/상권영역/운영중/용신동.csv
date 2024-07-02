@@ -1,0 +1,12 @@
+"상권_구분_코드","상권_구분_코드_명","상권_코드","상권_코드_명","집객시설_수","관공서_수","은행_수","종합병원_수","일반_병원_수","약국_수","유치원_수","초등학교_수","중학교_수","고등학교_수","대학교_수","백화점_수","슈퍼마켓_수","극장_수","숙박_시설_수","공항_수","철도_역_수","버스_터미널_수","지하철_역_수","버스_정거장_수"
+"A","골목상권",2110195,"동대문구청",15,NA,NA,NA,NA,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"A","골목상권",2110184,"용두사거리",8,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"A","골목상권",2110183,"한국의류시험연구원",7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"A","골목상권",2110185,"용두초등학교",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"A","골목상권",2110192,"동의보감타워",9,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"A","골목상권",2110188,"용두동신동아아파트",8,1,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"A","골목상권",2110187,"제기동역 6번",24,NA,1,1,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"A","골목상권",2110181,"신설동역 9번",6,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"A","골목상권",2110182,"용두희망어린이공원",13,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+"D","발달상권",2120062,"신설동역",84,4,6,NA,3,4,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,3,13
+"R","전통시장",2130089,"청량리수산시장",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1

@@ -1,0 +1,10 @@
+"상권_구분_코드","상권_구분_코드_명","상권_코드","상권_코드_명","집객시설_수","관공서_수","은행_수","종합병원_수","일반_병원_수","약국_수","유치원_수","초등학교_수","중학교_수","고등학교_수","대학교_수","백화점_수","슈퍼마켓_수","극장_수","숙박_시설_수","공항_수","철도_역_수","버스_터미널_수","지하철_역_수","버스_정거장_수"
+"A","골목상권",2110331,"돌곶이역 8번",21,1,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"A","골목상권",2110334,"석관중앙교회",13,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"A","골목상권",2110333,"돌곶이역 5번",16,NA,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"A","골목상권",2110335,"석계역 7번",37,4,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,15
+"A","골목상권",2110336,"석관고등학교",6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+"A","골목상권",2110221,"의릉",8,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,1
+"R","전통시장",2130126,"새석관시장",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,1
+"R","전통시장",2130128,"돌곶이시장(석관황금시장)",3,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"R","전통시장",2130127,"석관시장",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA

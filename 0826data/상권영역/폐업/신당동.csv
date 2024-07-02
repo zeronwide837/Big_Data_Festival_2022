@@ -1,0 +1,14 @@
+"상권_구분_코드","상권_구분_코드_명","상권_코드","상권_코드_명","집객시설_수","관공서_수","은행_수","종합병원_수","일반_병원_수","약국_수","유치원_수","초등학교_수","중학교_수","고등학교_수","대학교_수","백화점_수","슈퍼마켓_수","극장_수","숙박_시설_수","공항_수","철도_역_수","버스_터미널_수","지하철_역_수","버스_정거장_수"
+"A","골목상권",2110053,"청구역 1번",7,3,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"A","골목상권",2110051,"한양공고앞 교차로",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"D","발달상권",2120039,"신당역",55,3,5,NA,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3
+"R","전통시장",2130043,"제일평화시장",3,NA,1,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA
+"R","전통시장",2130048,"동평화시장",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"R","전통시장",2130049,"신당 미래유산 먹거리 골목형상점가",9,1,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+"R","전통시장",2130044,"에리어식스(벨포스트)",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"R","전통시장",2130047,"테크노상가(엘리시움)",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"R","전통시장",2130041,"신평화패션타운(청계6가 지하도상가)",3,NA,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"R","전통시장",2130040,"남평화시장",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA
+"R","전통시장",2130045,"광희패션몰",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA
+"R","전통시장",2130050,"청평화시장",2,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"U","관광특구",1001494,"종로?청계 관광특구",243,5,18,NA,NA,32,NA,NA,NA,NA,NA,NA,6,NA,15,NA,NA,NA,4,27
