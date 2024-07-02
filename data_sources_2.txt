@@ -1,0 +1,39 @@
+서울시 데이터(서울 열린데이터 광장)
+-확진자현황
+https://data.seoul.go.kr/dataList/OA-20470/S/1/datasetView.do
+-연령별 주민등록인구(행정안전부 주민등록 인구 및 세대현황)
+https://jumin.mois.go.kr/#
+-국민기초생활보장+수급자
+https://data.seoul.go.kr/dataList/1/S/2/datasetView.do
+-상주인구
+https://data.seoul.go.kr/dataList/10077/S/2/datasetView.do
+-인구밀도
+https://data.seoul.go.kr/dataList/10790/S/2/datasetView.do
+-백신접종현황
+http://data.seoul.go.kr/dataList/OA-20914/S/1/datasetView.do
+-학급당학생수
+https://data.seoul.go.kr/dataList/542/S/2/datasetView.do
+-유통업체현황
+https://data.seoul.go.kr/dataList/175/S/2/datasetView.do
+-구별 의료기관
+https://data.seoul.go.kr/dataList/173/S/2/datasetView.do
+-동별 의약품 제조 및 판매업 현황
+https://data.seoul.go.kr/dataList/10153/S/2/datasetView.do
+
+인천시 데이터(공공데이터포털)
+-확진자 현황(11월 10일 인천광역시 코로나10 현황판)
+https://www.incheon.go.kr/covid19/index
+-연령별인구(행정안전부 주민등록 인구 및 세대현황)
+https://jumin.mois.go.kr/#
+-국민기초생활수급자
+https://www.data.go.kr/data/15064871/fileData.do
+-상주인구
+https://www.data.go.kr/data/15055011/fileData.do?recommendDataYn=Y
+-대규모점포
+https://www.data.go.kr/data/15045294/fileData.do?recommendDataYn=Y
+-의료기관(인천데이터포털)
+https://www.incheon.go.kr/health/HE010101
+-약국
+https://www.data.go.kr/data/15095641/fileData.do?recommendDataYn=Y
+-인구밀도(통계청)
+https://kosis.kr/statHtml/statHtml.do?orgId=204&tblId=DT_20402_B000016
